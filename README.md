@@ -18,7 +18,7 @@ Code
 
     c) occupancy or density
 
-    d) provide unique index label for Tsraining Data
+    d) provide unique index label for Training Data
         - use voting for points with multiple classes
 
 
